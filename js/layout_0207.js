@@ -87,7 +87,6 @@ midMenu.forEach(function(dm) {
         dm.classList.add('mHei');
         panel.style.maxHeight = panel.scrollHeight + 'px';
         }
-        
     })
 })
 
